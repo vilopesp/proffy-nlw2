@@ -1,0 +1,46 @@
+:root {
+    --color-primary: #00B9E1;
+    --color-primary-dark: #011469;
+    --color-primary-light: #C7F1FF;
+    --color-secondary: #ffe071;
+    --color-secondary-dark: #C99114;
+    --color-secondary-complement: #EBCD62;
+    --color-base: #323232;
+    --color-text-base: #5E6E7C;
+    --color-background: #EEEEEE;
+    --color-text-complement: #5B5B5B;
+    --color-text-input: #A9A9A9;
+    --color-box-border: #B6C3CF;
+    --color-box-base: #FFFFFF;
+    --color-box-footer: #F9F9F9;
+
+    font-size: 60%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100vh;
+}
+
+body {
+    background-color: var(--color-background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body, input, button, textarea {
+    font: 500 1.6rem Poppins;
+    color: var(--color-text-base)
+}
+
+#container {
+    width: 90vw;
+    max-width: 700px;
+    border: 1px solid;
+}
