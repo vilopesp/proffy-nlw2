@@ -2,11 +2,11 @@
     <img alt="Logo Proffy" src="/images/logo-blue.png" />
 </h1>
 
-<h2 align="center">
+<h3 align="center">
     :books: Sua plataforma de estudos online
-</h2>
+</h3>
 
-<h4 align="center"> :warning: Projeto em desenvolvimento :warning: </h4>
+<h4 align="center"> :warning: Projeto em desenvolvimento :warning: </h4><br>
 
 ## :computer: SOBRE O PROJETO: 
 
