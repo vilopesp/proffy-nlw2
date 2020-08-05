@@ -1,10 +1,13 @@
 :root {
     --color-primary: #00B9E1;
+    --color-primary-hover: #0098C8;
     --color-primary-dark: #011469;
     --color-primary-light: #C7F1FF;
-    --color-secondary: #ffe071;
+    --color-secondary: #FFE071;
+    --color-secondary-hover: #F1CC49;
     --color-secondary-dark: #C99114;
     --color-secondary-complement: #EBCD62;
+    --color-secondary-in-primary: #FFF2C2;
     --color-base: #323232;
     --color-text-base: #5E6E7C;
     --color-background: #EEEEEE;
@@ -38,9 +41,14 @@ body, input, button, textarea {
     font: 500 1.6rem Poppins;
     color: var(--color-text-base)
 }
-
 #container {
     width: 90vw;
     max-width: 700px;
-    border: 1px solid;
 }
+
+@media (min-width: 700px){
+    :root {
+        font-size: 62.5% /* todo 1rem vai ser relativo à 10px */
+    }
+}
+

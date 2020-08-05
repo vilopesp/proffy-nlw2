@@ -24,7 +24,7 @@ Este é um projeto desenvolvido durante a semana Next Level Week, na trilha Boos
   	<img alt="Página Inicial" src="/images/home-proffy.png" width="80%">
 </p>
 
-## <p align="center">Página de Registro</p>
+### <p align="center">Página de Registro</p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   	<img alt="Página de cadastro do professor" src="/images/page-form.png" width="80%">
