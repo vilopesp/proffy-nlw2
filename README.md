@@ -1,5 +1,5 @@
 <h1 align="center" >
-    <img alt="Logo Proffy" src="/images/logo-blue.png" />
+    <img alt="Logo Proffy" src="/public/images/logo-blue.png" />
 </h1>
 
 <h3 align="center">
@@ -21,13 +21,13 @@ Este é um projeto desenvolvido durante a semana Next Level Week, na trilha Boos
 
 ### <p align="center">Home Page</p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página Inicial" src="/images/home-proffy.png" width="80%">
+  	<img alt="Página Inicial" src="/public/images/home-proffy.png" width="80%">
 </p>
 
 ### <p align="center">Página de Registro</p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro do professor" src="/images/page-form.png" width="80%">
+  	<img alt="Página de cadastro do professor" src="/public/images/page-form.png" width="80%">
 </p>
 <br> <br>
 
