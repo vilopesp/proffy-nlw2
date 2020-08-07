@@ -35,7 +35,7 @@ Este é um projeto desenvolvido durante a semana Next Level Week, na trilha Boos
 
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/64246018?s=460&u=3d07c48c53255d53e3406037c7f98af14fd98689&v=4" width="100px;" alt="Imagem do Autor"/>
  <br/>
- <sub><b>Vitória Lopes</b></sub> 
+ <sub><b>Redes Sociais</b></sub> 
  <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-vilopesp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilopesp/)](https://www.linkedin.com/in/grioos/) 
