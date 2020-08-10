@@ -8,7 +8,7 @@
 
 <h4 align="center"> :warning: Projeto em desenvolvimento :warning: </h4><br>
 
-## :computer: SOBRE O PROJETO: 
+## :bulb: SOBRE O PROJETO
 
 A Proffy é uma plataforma de estudos online desenvolvida para alunos e professores que queiram aprender ou dar aulas, respectivamente, gerando assim uma corrente de aprendizado online. 
 
@@ -30,6 +30,24 @@ Este é um projeto desenvolvido durante a semana Next Level Week, na trilha Boos
   	<img alt="Página de cadastro do professor" src="/public/images/page-form.png" width="80%">
 </p>
 <br> <br>
+
+## :computer: COMO EXECUTAR O PROJETO
+
+```bash
+# Clonar o repositório
+git clone https://github.com/vilopesp/proffy-nlw2
+
+# Entrar no diretório
+cd proffy-nlw2
+
+# Baixar as dependências
+npm install
+
+# Executar o servidor
+npm run dev
+```
+
+<br>
 
 ## :raising_hand: Autora
 
