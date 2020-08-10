@@ -5,6 +5,7 @@
 <h3 align="center">
     :books: Sua plataforma de estudos online
 </h3>
+<br>
 
 ## :bulb: SOBRE O PROJETO
 
