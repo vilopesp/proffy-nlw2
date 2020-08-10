@@ -6,8 +6,6 @@
     :books: Sua plataforma de estudos online
 </h3>
 
-<h4 align="center"> :warning: Projeto em desenvolvimento :warning: </h4><br>
-
 ## :bulb: SOBRE O PROJETO
 
 A Proffy é uma plataforma de estudos online desenvolvida para alunos e professores que queiram aprender ou dar aulas, respectivamente, gerando assim uma corrente de aprendizado online. 
